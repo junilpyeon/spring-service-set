@@ -20,8 +20,8 @@ public class SessionInfoController {
         }
 
         //세션 데이터 출력
-        session.getAttributeNames().asIterator()
-                .forEachRemaining(name -> log.info("session name={}, value={}", name, session.getAttribute(name)));
+        /*session.getAttributeNames().asIterator()
+                .forEachRemaining(name -> log.info("session name={}, value={}", name, session.getAttribute(name)));*/
 
         log.info("sessionId={}", session.getId());
         log.info("getMaxInactiveInterval={}", session.getMaxInactiveInterval());

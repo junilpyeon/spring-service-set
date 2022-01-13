@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/mvc2.iml" filepath="$PROJECT_DIR$/.idea/mvc2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thymeleaf-basic.iml" filepath="$PROJECT_DIR$/.idea/modules/thymeleaf-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thymeleaf-basic.main.iml" filepath="$PROJECT_DIR$/.idea/modules/thymeleaf-basic.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thymeleaf-basic.test.iml" filepath="$PROJECT_DIR$/.idea/modules/thymeleaf-basic.test.iml" />
     </modules>
   </component>
 </project>
